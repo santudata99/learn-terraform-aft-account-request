@@ -16,7 +16,7 @@ module "sandbox" {
 
   change_management_parameters = {
     change_requested_by = "ITSS_Cloud5Data"
-    change_reason       = " Reason to create new account for testing"
+    change_reason       = " Reason to create account for testing"
   }
 
   custom_fields = {

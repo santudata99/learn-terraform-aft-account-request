@@ -16,7 +16,7 @@ module "thevjajer-IBG-PROD" {
 
   change_management_parameters = {
     change_requested_by = "requested by DevSecOps team"
-    change_reason       = "To add existing account to AFT for DevOps"
+    change_reason       = "To add existing account to AFT for DeviSecOps"
   }
 
   custom_fields = {
