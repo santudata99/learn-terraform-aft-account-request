@@ -11,12 +11,12 @@ module "sandbox" {
   }
 
   account_tags = {
-    "Learn Tutorial" = "AFT"
+    "QA for DevOps team" = "ITSS"
   }
 
   change_management_parameters = {
-    change_requested_by = "HashiCorp Learn"
-    change_reason       = "Learn AWS Control Tower Account Factory for Terraform"
+    change_requested_by = "ITSS_Cloud5Data"
+    change_reason       = "To add new account for testing"
   }
 
   custom_fields = {

@@ -11,7 +11,7 @@ module "thevjajer-IBG-PROD" {
   }
 
   account_tags = {
-    "Learn Tutorial" = "AFT"
+    "DevOps for ItssIbg" = "ITSS"
   }
 
   change_management_parameters = {
