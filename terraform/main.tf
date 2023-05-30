@@ -11,7 +11,7 @@ module "sandbox" {
   }
 
   account_tags = {
-    "QA for DevOps team" = "ITSS"
+    "QA for DevSecOps team" = "ITSS"
   }
 
   change_management_parameters = {
