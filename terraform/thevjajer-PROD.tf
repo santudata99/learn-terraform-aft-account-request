@@ -2,7 +2,7 @@ module "thevjajer-PROD" {
   source = "./modules/aft-account-request"
 
   control_tower_parameters = {
-    AccountEmail              = "santudata9@gmail.com"
+    AccountEmail              = "santudataprod@thevjajer.com"
     AccountName               = "thevjajer-PROD"
     ManagedOrganizationalUnit = "ITSS-PROD"
     SSOUserEmail              = "santudataprod@thevjajer.com"
