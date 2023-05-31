@@ -7,7 +7,7 @@ module "thevjajer-PROD" {
     ManagedOrganizationalUnit = "ITSS-PROD"
     SSOUserEmail              = "santudataprod@thevjajer.com"
     SSOUserFirstName          = "santu"
-    SSOUserLastName           = "data9"
+    SSOUserLastName           = "dataprod"
   }
 
   account_tags = {
@@ -24,3 +24,4 @@ module "thevjajer-PROD" {
   }
 
   account_customizations_name = "thevjajer-PROD"
+}
